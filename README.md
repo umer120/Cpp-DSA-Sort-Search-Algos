@@ -17,7 +17,11 @@ Create a C++ class named Student, with the following PRIVATE attributes:
 
 
 Your task is to implement 10 objects of students. Initialize all objects (you can use the rand() function to make things easier) and perform the following Search algorithms on them based on CGPA.
+
 a)	Linear Search
+
 b)	Binary Search
+
+
 These functions MUST be implemented as PUBLIC member functions of the class Student.
 
